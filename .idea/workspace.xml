@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610667c-bc15-443b-ac3d-96d761cf5fca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="manikantamaddula.github.io.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58145064">
-              <caret line="298" column="66" selection-start-line="298" selection-start-column="66" selection-end-line="298" selection-end-column="66" />
+            <state vertical-scroll-proportion="8.711059">
+              <caret line="333" column="50" selection-start-line="333" selection-start-column="50" selection-end-line="333" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -301,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58145064">
-          <caret line="298" column="66" selection-start-line="298" selection-start-column="66" selection-end-line="298" selection-end-column="66" />
+        <state vertical-scroll-proportion="8.711059">
+          <caret line="333" column="50" selection-start-line="333" selection-start-column="50" selection-end-line="333" selection-end-column="50" />
           <folding />
         </state>
       </provider>
